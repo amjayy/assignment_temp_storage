@@ -1,0 +1,5 @@
+This is a text file
+....
+Well that's all I have to say
+About that
+Bye!
